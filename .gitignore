@@ -51,4 +51,4 @@ gradleBuild
 /tensorflow/lite/examples/ios/simple/data/*.txt
 Podfile.lock
 Pods
-xcuserdata
+xcuserdat
